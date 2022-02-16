@@ -36,3 +36,14 @@ body{
     background-image: url('images/Snapchat-785012831.jpg');
 
 }
+
+
+@media  screen and (width: 350px) {
+
+    .container{
+        display: block;
+        justify-content: center;
+        
+    }
+    
+}
