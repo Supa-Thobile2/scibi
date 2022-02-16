@@ -8,7 +8,7 @@ body{
     background-color: black;
 }
 .container{
-    display: flex;
+    display: block;
     justify-content: center;
     
 }
@@ -38,12 +38,5 @@ body{
 }
 
 
-@media  screen and (width: 350px) {
-
-    .container{
-        display: block;
-        justify-content: center;
-        
-    }
     
 }
